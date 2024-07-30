@@ -5,7 +5,12 @@ This Power BI project features interactive dashboards that analyze credit card d
 
 ## Preview
 Here’s a preview of the Credit Card Financial Dashboard:
-Credit Card Transaction Report.pdf
+## PDF Files
+
+You can view or download the following PDF file for more details:
+
+- [Credit Card Transaction Report](Credit%20Card%20Transaction%20Report.pdf)
+
 
 
 
