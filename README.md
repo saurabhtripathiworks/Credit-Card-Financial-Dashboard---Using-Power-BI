@@ -3,14 +3,16 @@
 ## Overview
 This Power BI project features interactive dashboards that analyze credit card data through a transaction report and a customer report. It tracks weekly data to provide insights into spending trends, expense categories, and payment history, helping to manage and optimize credit card usage.
 
-## Preview
-Here’s a preview of the Credit Card Financial Dashboard:
+## Dashboard Preview
+
+Here’s a preview of the Credit Card Financial Dashboards:
+
 ## PDF Files
 
-You can view or download the following PDF file for more details:
+You can view or download the following PDF files for more details:
 
-- [Credit Card Transaction Report](Credit%20Card%20Transaction%20Report.pdf)
-
+- [Credit Card Transaction Report](https://github.com/saurabhtripathiworks/Credit-Card-Financial-Dashboard---Using-Power-BI/blob/main/Credit%20Card%20Transaction%20Report.pdf)
+- [Credit Card Customer Report](https://github.com/saurabhtripathiworks/Credit-Card-Financial-Dashboard---Using-Power-BI/blob/main/Credit%20Card%20Customer%20Report.pdf)
 
 
 
