@@ -5,9 +5,7 @@ This Power BI project features interactive dashboards that analyze credit card d
 
 ## Preview
 Here’s a preview of the Credit Card Financial Dashboard:
-
-![Dashboard Screenshot](path/to/your/screenshot.png)
-![Dashboard Screenshot](path/to/your/screenshot.png)
+- [Credit Card Transaction Analysis](docs/credit_card_analysis.pdf)
 
 
 ## About this Dataset
