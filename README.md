@@ -41,7 +41,7 @@ The dataset includes credit card transaction records and customer data, such as 
 ## Usage
 1. **Download Power BI Desktop**: Install from the official website.
 2. **Clone This Repository**: Get the files from the repository.
-3. **Open Dashboard**: Load `Credit_Card_Financial_Dashboard.pbix` in Power BI Desktop.
+3. **Open Dashboard**: Load `Credit_Card_Financial_Report.pbix` in Power BI Desktop.
 4. **Interact**: Explore the dashboard to analyze credit card data.
 
 ## Contact
