@@ -5,7 +5,7 @@ This Power BI project features interactive dashboards that analyze credit card d
 
 ## Dashboard Preview
 
-Here’s a preview of the Credit Card Financial Dashboards; check the PDF links below.
+Here’s a preview of the Credit Card Financial Dashboards; check the PDF files and click on the **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc1ODNkMjgtMjQ0Yy00YmZiLTkwMWMtODE3MThhZDJiM2U5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** to view the live dashboard.
 
 ## PDF Files
 
@@ -14,7 +14,10 @@ You can view or download the following PDF files for more details:
 - [Credit Card Transaction Report](https://github.com/saurabhtripathiworks/Credit-Card-Financial-Dashboard---Using-Power-BI/blob/main/Credit%20Card%20Transaction%20Report.pdf)
 - [Credit Card Customer Report](https://github.com/saurabhtripathiworks/Credit-Card-Financial-Dashboard---Using-Power-BI/blob/main/Credit%20Card%20Customer%20Report.pdf)
 
+## Live Dashboard
+You can view the live Power BI dashboard here:
 
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc1ODNkMjgtMjQ0Yy00YmZiLTkwMWMtODE3MThhZDJiM2U5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## About this Dataset
 The dataset includes credit card transaction records and customer data, such as transaction amounts, dates, expense categories, and payment history. Updated weekly, the dashboard provides real-time insights into key performance metrics and trends, enabling effective monitoring and analysis of credit card operations.
